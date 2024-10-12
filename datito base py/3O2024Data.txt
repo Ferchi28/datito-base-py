@@ -1,0 +1,21 @@
+nombre: fernanda
+apellido: hernnadez
+edad: 19
+telefono: 9614401113
+estatura: 1.61
+Gender: Mujer
+
+nombre: fernanda
+apellido: hernandez
+edad: 19
+telefono: 9614401113
+estatura: 1.61
+Gender: Mujer
+
+nombre: samuel
+apellido: hernandez
+edad: 15
+telefono: 9612764701
+estatura: 1.68
+Gender: Hombre
+
